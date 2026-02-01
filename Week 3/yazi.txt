@@ -1,0 +1,4 @@
+Merhaba Yobodobo!
+Python ile dosya işlemlerini işliyoruz.
+Merhaba!
+Python işliyoruz.
